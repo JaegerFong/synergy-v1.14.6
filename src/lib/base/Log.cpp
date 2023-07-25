@@ -26,7 +26,8 @@
 #include <cstdio>
 #include <cstring>
 #include <iostream>
-#include <ctime> 
+#include <ctime>
+#include <cstdint>
 
 // names of priorities
 static const char*        g_priority[] = {
